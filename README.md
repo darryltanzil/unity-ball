@@ -1,6 +1,6 @@
 # Get the coins!
 
-A simple Unity application I developed circa 2015- the original source code is now missing, but this is the zip of the compiled version. This is written in C#, and educated me regarding the basics of game development. 
+A simple Unity application I developed circa 2015- the original source code is now missing, but this is the zip of the compiled version. This is written in C#, and educated me regarding the basics of Unity game development. 
 
 ## Installation
 
